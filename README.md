@@ -11,6 +11,8 @@ Install speech to text client library
 
 pip install --upgrade google-cloud-speech
 
+```bash
+
 To use Whisper take a look at quickstart here https://platform.openai.com/docs/guides/speech-to-text
 
 Object Recognition - MediaPipe + OpenCV
