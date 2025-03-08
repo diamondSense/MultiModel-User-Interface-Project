@@ -15,10 +15,16 @@ To use Whisper take a look at quickstart here https://platform.openai.com/docs/g
 
 Object Recognition - MediaPipe + OpenCV
 
-MediaPipe:
+To install MediaPipe:
 
 ```bash
 pip install mediapipe
+```
+
+To install OpenCV
+
+``bash
+pip install opencv-python
 ```
 
 User Interface - AR overlays(OpenCV) or simple web UI
