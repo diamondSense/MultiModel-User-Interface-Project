@@ -7,6 +7,8 @@ Voice Recognition - Google Speech to text / Whisper
 
 Install speech to text client library 
 
+```bash
+
 pip install --upgrade google-cloud-speech
 
 To use Whisper take a look at quickstart here https://platform.openai.com/docs/guides/speech-to-text
