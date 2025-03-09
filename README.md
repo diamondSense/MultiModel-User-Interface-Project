@@ -6,19 +6,19 @@ The goal of this project is to have interactive cooking assistant that responds 
 ## Environment
 To create the environment you can use the following command:
 
-bash```
+```bash
 python -m venv .venv
 ```
 
 Then you can activate the environment with the following command:
 
-bash```
+```bash
 source .venv/bin/activate
 ```
 
 use this requirements.txt file to load the necessary packages:
 
-bash```
+```bash
 pip freeze > requirements.txt
 ```
 
