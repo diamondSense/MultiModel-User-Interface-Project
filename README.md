@@ -43,7 +43,7 @@ pip install mediapipe
 
 To install OpenCV
 
-``bash
+```bash
 pip install opencv-python
 ```
 
