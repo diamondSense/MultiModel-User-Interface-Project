@@ -2,6 +2,19 @@
 ##  Interactive Cooking Assitance 
 “Enhancing Cooking Experiences with Multimodal Interaction”
 The goal of this project is to have interactive cooking assistant that responds to voice and object recognition.
+
+## Environment
+To create the environment you can use the following command:
+
+bash```
+python -m venv .venv
+```
+
+Then you can activate the environment with the following command:
+bash```
+source .venv/bin/activate
+```
+
 ## Technology
 Voice Recognition - Google Speech to text / Whisper
 
