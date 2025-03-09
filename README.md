@@ -15,6 +15,11 @@ bash```
 source .venv/bin/activate
 ```
 
+use this requirements.txt file to load the necessary packages:
+bash```
+pip freeze > requirements.txt
+```
+
 ## Technology
 Voice Recognition - Google Speech to text / Whisper
 
