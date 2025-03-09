@@ -16,14 +16,14 @@ Then you can activate the environment with the following command:
 source .venv/bin/activate
 ```
 
-use this requirements.txt file to load the necessary packages:
+Use this requirements.txt file to load the necessary packages:
 
 ```bash
 pip freeze > requirements.txt
 ```
 
 ## Technology
-Voice Recognition - Google Speech to text / Whisper
+### Voice Recognition - Google Speech to text / Whisper
 
 Install speech to text client library 
 
@@ -33,7 +33,7 @@ pip install --upgrade google-cloud-speech
 
 To use Whisper take a look at quickstart here https://platform.openai.com/docs/guides/speech-to-text
 
-Object Recognition - MediaPipe + OpenCV
+### Object Recognition - MediaPipe + OpenCV
 
 To install MediaPipe:
 
