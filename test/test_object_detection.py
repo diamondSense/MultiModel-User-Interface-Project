@@ -1,1 +1,0 @@
-# For testing the object detection module
