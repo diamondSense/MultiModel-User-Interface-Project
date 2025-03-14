@@ -1,4 +1,5 @@
 # Test for text recognition model using Google TTS (text to speech)
+# https://cloud.google.com/text-to-speech?hl=en
 
 from gtts import gTTS
 import os
